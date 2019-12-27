@@ -6,6 +6,9 @@ html,body{
     font-family: 'Poppins', sans-serif;
     color : #222;
 }
+.logo img{
+    width: 40px;
+}
 
 .navbar{
     padding: .8rem;
@@ -72,6 +75,7 @@ html,body{
 .fun{
     width: 100%;
     margin-bottom: 2rem;
+    background-color: #517fa4;
 }
 .gif{
     width: 100%;
